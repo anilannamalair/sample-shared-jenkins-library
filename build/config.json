@@ -1,0 +1,6 @@
+{
+  "app3": {
+    "buildCommand": "mvn clean install",
+    "version": "3.0.0"
+  }
+}
